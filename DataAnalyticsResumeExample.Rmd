@@ -1,0 +1,133 @@
+---
+title: "Yitong Sun"
+author: Yitong Sun
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # Thanks to Eric R. Scott for this tip! 
+    self_contained: false
+---
+
+Aside
+================================================================================
+
+
+![Data](data_icon.png){width=30%}
+<!-- ![Data](`r here::here("data_icon.png")`) -->
+
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i>yitong.sun@tufts.edu
+- <i class="fa fa-github"></i> [github.com/YitongSunMA/](https://github.com/YitongSunMA/)
+- <i class="fa fa-phone"></i> +1 518-364-7097
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in running multivariate regression. 
+
+- Proficient with R, Python, Java Programming, AWS, Microsoft Azure
+
+- Performed **data analysis**, with a focus on engineering models
+
+- Experienced in **data communication** and client relations
+
+- **Machine Learning** on cloud platforms (AWS)
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+<!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Yitong Sun {#title}
+--------------------------------------------------------------------------------
+
+### Data Analytics student seeking Summer 2021 internship
+
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Tufts University
+
+MS Candidate in Data Analysis
+
+Medford, MA
+
+2020--Current
+
+
+### University at Albany
+
+B.A. in Economics and Minor in Mathematics
+
+Albany, NY 
+
+2015--2019
+
+
+
+Work Experience {data-icon=flask}
+--------------------------------------------------------------------------------
+
+### Premier Support Engineer
+
+Zones Nfrastructure
+
+Menands, NY
+
+2019--2020
+
+- Detected and tested Microsoft 365 service degradation and take preventative procedures for strategic customers on a daily basis. 
+- Cooperated with the Microsoft Product Group on fixing potential and ongoing bugs, and helpd rolling out new feature – Conditional Access for macOS.
+
+
+### Executive Assistant
+
+Waysun Inc
+
+Orlando, FL
+
+March 2019 – November 2019
+
+<!--::: concise-->
+- Created and implemented Client Management Excel Project using Macro VBA function for the executive to use which results in an increased efficiency in organizing clients records.
+- Contributed to ongoing projects by analyzing companies’ financial condition, conducting background investigation and constructing feasible reports.
+<!--:::-->
+
+Internship Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Data Analyst Intern
+
+Yonda Finance Co
+
+Shanghai, China
+
+2017 -- 2018
+
+- Created employee’s performance evaluation and assisted data analysis team to visualize and analyze clients’ investment information by using Power BI.
+- Systemized client information using Microsoft Dynamics CRM System and used Personal Planning Analysis
+System to illustrate client financial need.
+
+
+
+Scholarships and Awards {data-icon=comment-alt}
+--------------------------------------------------------------------------------
+- Data Analytics Scholarship
+- Institutional Merit Scholarship 
+- Dean’s list
